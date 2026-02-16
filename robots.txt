@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nogosan.8222quick.com/sitemap.xml
+
+
+
